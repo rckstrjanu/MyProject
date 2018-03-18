@@ -7,6 +7,7 @@ public class User {
 		System.out.println("User Class");
 		System.out.println("Commited the changes");
 
+		;
 	}
 
 }
