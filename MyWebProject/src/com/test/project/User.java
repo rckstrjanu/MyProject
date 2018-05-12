@@ -9,7 +9,8 @@ public class User {
 
 		System.out.println("Commited the changes");
 		System.out.println("Hello Janardhan");
-		System.out.println("Hello Malliiiiiiii");
+System.out.println("Hello Malliiiiiiii");
+
 		
 	}
 
